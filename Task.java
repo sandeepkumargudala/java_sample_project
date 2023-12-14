@@ -3,7 +3,7 @@ public class DocumentVerificationApp {
     private boolean isIdentityVerified;
     private boolean isAddressVerified;
     private boolean isCreditScoreVerified;
-    private boolean isIncomeVerified;
+    private boolean check;
     private boolean isVehicleAssessmentPassed;
     private boolean isPaymentApproved;
     private String vendorName;
